@@ -1,0 +1,74 @@
+2021-Aug-17 04:24:11.813672 INFO    [daemon] 
+
+                                                                                                         
+ ,gggggggg,           ,gggg,             ,ggg,  ,ggggggggggggggg ,ggg, ,ggggggg,        ,a8a,  ,ggg,        gg 
+d8PY8b,        d88I            dP8I dP88       dP  Y8,8P     Y8b      ,88,dPY8b       dP 
+88,_a     `8b        88  ,dP           dP   88 Yb,_    88       Yb, `8dP'     `88      d8   8bYb, `88      d8' 
+`Y8P       88     8888888P            dP    88  `     88        `   88'       88      88   88 `   88    ,dP'   
+           88        88              ,8'    88         88            88        88      88   88     88aaad8     
+          d8'        88              d88888888         88            88        88      Y8   8P     88Yb,   
+       _,d8'    ,aa,_88        __   ,8      88         88            88        88      `8, ,8'     88      8b  
+     d8888ba,  dP88P       dP   ,8P      Y8   gg,   88            88        88 8888   8,8       88      `8i 
+          Y88b,Yb,_,d88b,,_   Yb,_,dP       `8b,   Yb,,8P            88        Y8,`8b,  ,d8b,      88       Yb,
+         ,d8888 Y8P    Y88888 Y8P         `Y8     Y8P'            88         Y8   Y88P   Y8     88        Y8   
+       ,8P   88                                                                                                
+      d8'    88                                                                                                
+     d8'    ,88                                                                                                
+     88     d8'                                                                                                
+     Y8,_ _,8P                                                                                                 
+       Y888P                                                                                                   
+
+ Zlatnik v1.0.0.2000 ()
+ This software is distributed under the General Public License v3.0
+
+ 2021 , FrederaFantom
+
+ Additional Copyright(s) may apply, please see the included LICENSE file for more information.
+ If you did not receive a copy of the LICENSE, please visit:
+ https://zlatnik.su
+
+
+2021-Aug-17 04:24:11.813849 INFO    [daemon] Program Working Directory: "/home/frederafantom/Desktop/turtlecoin/build/src"
+2021-Aug-17 04:24:11.813922 INFO    [daemon] Loading Checkpoints for faster initial sync...
+2021-Aug-17 04:24:11.813952 INFO    [daemon] Loaded 0 default checkpoints
+2021-Aug-17 04:24:11.813976 INFO    [RocksDBWrapper] Opening DB in /home/frederafantom/.Zlatnik/DB
+2021-Aug-17 04:24:11.821292 INFO    [RocksDBWrapper] DB opened in /home/frederafantom/.Zlatnik/DB
+2021-Aug-17 04:24:11.821370 INFO    [daemon] Initializing core...
+2021-Aug-17 04:24:11.821805 INFO    [daemon] Core initialized OK
+2021-Aug-17 04:24:11.822185 INFO    [daemon] Initializing p2p server...
+2021-Aug-17 04:24:11.822294 INFO    [node_server] Binding on 0.0.0.0:11383
+2021-Aug-17 04:24:11.822353 INFO    [node_server] Net service bound on 0.0.0.0:11383
+2021-Aug-17 04:24:11.822386 INFO    [node_server] Attempting to add IGD port mapping.
+2021-Aug-17 04:24:15.852573 INFO    [node_server] No IGD was found.
+2021-Aug-17 04:24:15.852643 INFO    [daemon] P2p server initialized OK
+2021-Aug-17 04:24:15.852664 INFO    [daemon] Starting core rpc server on address 127.0.0.1:11838
+2021-Aug-17 04:24:15.852844 INFO    [daemon] Starting p2p net loop...
+2021-Aug-17 04:24:15.852874 INFO    [node_server] Starting node_server
+2021-Aug-17 04:24:25.857713 INFO    [protocol] 
+2021-Aug-17 04:24:25.857787 INFO    [protocol] ===[ Zlatnik Tip! ]=============================
+2021-Aug-17 04:24:25.857897 INFO    [protocol]  Always exit Zlatnikd and ZKwallet with the "exit" command to preserve your chain and wallet data.
+2021-Aug-17 04:24:25.858023 INFO    [protocol]  Use the "help" command to see a list of available commands.
+2021-Aug-17 04:24:25.858057 INFO    [protocol]  Use the "backup" command in ZKwallet to display your keys/seed for restoring a corrupted wallet.
+2021-Aug-17 04:24:25.858132 INFO    [protocol]  If you need more assistance, you can contact us for support at https://zlatnik.su
+2021-Aug-17 04:24:25.858210 INFO    [protocol] ===================================================
+2021-Aug-17 04:24:25.858210 INFO    [protocol] 
+2021-Aug-17 04:24:25.858298 INFO    [protocol] 
+                                                                                                         
+ ,gggggggg,           ,gggg,             ,ggg,  ,ggggggggggggggg ,ggg, ,ggggggg,        ,a8a,  ,ggg,        gg 
+d8PY8b,        d88I            dP8I dP88       dP  Y8,8P     Y8b      ,88,dPY8b       dP 
+88,_a     `8b        88  ,dP           dP   88 Yb,_    88       Yb, `8dP'     `88      d8   8bYb, `88      d8' 
+`Y8P       88     8888888P            dP    88  `     88        `   88'       88      88   88 `   88    ,dP'   
+           88        88              ,8'    88         88            88        88      88   88     88aaad8     
+          d8'        88              d88888888         88            88        88      Y8   8P     88Yb,   
+       _,d8'    ,aa,_88        __   ,8      88         88            88        88      `8, ,8'     88      8b  
+     d8888ba,  dP88P       dP   ,8P      Y8   gg,   88            88        88 8888   8,8       88      `8i 
+          Y88b,Yb,_,d88b,,_   Yb,_,dP       `8b,   Yb,,8P            88        Y8,`8b,  ,d8b,      88       Yb,
+         ,d8888 Y8P    Y88888 Y8P         `Y8     Y8P'            88         Y8   Y88P   Y8     88        Y8   
+       ,8P   88                                                                                                
+      d8'    88                                                                                                
+     d8'    ,88                                                                                                
+     88     d8'                                                                                                
+     Y8,_ _,8P                                                                                                 
+       Y888P                                                                                                   
+
+2021-Aug-17 04:24:25.858440 INFO    [protocol] New Top Block Detected: 1
